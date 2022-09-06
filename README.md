@@ -1,6 +1,6 @@
 # Data analysis
 - Document here the project: Data4Good_Beers
-- Description: Project Description
+- Description: faire un yuka de la provenance des produits avec un test sur la bière
 - Data Source:
 - Type of analysis:
 
